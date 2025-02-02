@@ -132,7 +132,7 @@ const App = () => {
       </main>
 
       <footer className="mt-12 text-center text-gray-300 text-sm">
-        Made with ❤️ for learning AI, Machine Learning, and AR
+        Made by Aadish for ICT IA4. Game idea by Armaan and Sidharth
       </footer>
     </div>
   );
